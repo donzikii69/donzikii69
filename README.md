@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zikran69
-- 👀 I’m interested in Flutter & dart Languange
+- 👀 I’m interested in web programming Languange
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : my email : zikzigi69@gmail.com
