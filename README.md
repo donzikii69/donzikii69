@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zikran69 | just call me "ZIK"
-- 
-- 🌏 FullStack Web Developer | I’m interested in Web programming Language
+- 🌏 FullStack Web Developer | I’m interested in Web Programming Language
 
 - 💻 I’m currently learning =
   
