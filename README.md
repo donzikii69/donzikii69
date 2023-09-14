@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zikran69
-- 🤘 just call me "ZIK"
-- 🌏 FullStack Web Developer
-- 👀 I’m interested in web programming Language
+- 👋 Hi, I’m @zikran69 | just call me "ZIK"
+- 
+- 🌏 FullStack Web Developer | I’m interested in Web programming Language
 
 - 💻 I’m currently learning =
   
@@ -11,8 +10,7 @@
   </a>
 </p>
 
-- 📌 I’m looking for a programming job
-- ✉️ How to reach me?, my email: zikranasnawi69@gmail.com
+- 📌 I’m looking for a programming job | How to reach me?, my email: zikranasnawi69@gmail.com
 
 <!---
 zikran69/zikran69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
