@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @zikran69 | just call me "ZIK"
-- 🌏 FullStack Web Developer | I’m interested in Web Programming Language | https://portfolio-zikran.vercel.app/
+<h2>👋 Hi, I’m @zikran69 | just call me "ZIK" </h2>
+<h2>🌏 FullStack Web Developer | I’m interested in Web Programming Language
+</h2>  
+<a href="https://portfolio-zikran.vercel.app/">My Portfolio</a>
 
-- 💻 I’m currently learning =
+<h3>💻 I’m currently learning : </h3> 
+
   
 <p align="start">
   <a href="https://skillicons.dev">
@@ -9,8 +12,8 @@
   </a>
 </p>
 
-- 📌 I’m looking for a programming job | How to reach me?, my email: zikranasnawi69@gmail.com
-
+<h3> 📌 I’m looking for a programming job | How to reach me?, my email: zikranasnawi69@gmail.com
+</h3>
 <!---
 zikran69/zikran69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
