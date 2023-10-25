@@ -1,7 +1,7 @@
 <p>👋 Hi, I’m @zikran69 | just call me "ZIK" <p>
 <p>🌏 FullStack Web Developer | I’m interested in Web Programming Language
 <p>  
-**[My Portfolio](https://zikranportofolio-v2.vercel.app/)**
+[My Portfolio](https://zikranportofolio-v2.vercel.app/)
 
 <p>💻 I’m currently learning : <p> 
 
