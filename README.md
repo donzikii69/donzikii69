@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p> 📌 I’m looking for a programming job | How to reach me?, my email: <zikranasnawi69@gmail.com>
+<p> 📌 I’m looking for a programming job | How to reach me?, my email: `zikranasnawi69@gmail.com`
 </p>
 <!---
 zikran69/zikran69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
