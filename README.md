@@ -2,7 +2,7 @@
 <p>🌏 FullStack Web Developer | I’m interested in Web Programming Language
 <p>  
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zikranportofolio-v2.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zikran-v2.vercel.app/)
 
 <p>💻 I’m currently learning : <p> 
 
