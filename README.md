@@ -1,5 +1,5 @@
-<p>👋 Hi, I’m @zikran69 | just call me "ZIK" <p>
-<p>🌏 FullStack Web Developer | I’m interested in Web Programming Language
+<p>👋 Hi, I’m @zikran69 ||  just call me "ZIK" <p>
+<p>🌏 FullStack Web Developer | I’m interested in Web or Mobile (React Native) Programming 
 <p>  
 
 📌 I’m looking for a programming job 
