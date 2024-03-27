@@ -1,8 +1,8 @@
 <p>👋 Hi, I’m @zikran69 ||  just call me "ZIK" <p>
-<p>🌏 FullStack Web Developer | I’m interested in Web or Mobile (React Native) Programming 
+<p>🌏 FullStack Web Developer | I’m interested in Web or Mobile Programming 
 <p>  
 
-📌 I’m looking for a programming job 
+📌 Frontend & Mobile UI Antausiazm 
 <br>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://asrarizikran.vercel.app/), [![image](https://img.shields.io/badge/My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrarizikran/)
