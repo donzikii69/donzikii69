@@ -1,4 +1,4 @@
-<p>👋 Hi, I’m @donzikii ||  just call me "ZIK" <p>
+<p>👋 Hi, I’m zikran ||  just call me "don" or "don zik" <p>
 <p>🌏 FullStack Web Developer | I’m interested in Web or Mobile Programming 
 <p>  
 
