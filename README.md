@@ -13,14 +13,14 @@
 <p>💻 I’m currently learning : <p> 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=light" />
   </a>
 </p>
 
 <p>:atom: Framework : <p> 
  <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,laravel&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs&theme=light" />
   </a>
 </p>
 
