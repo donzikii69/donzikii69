@@ -10,20 +10,12 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://asrarizikran.vercel.app/) &nbsp; &nbsp;  [![image](https://img.shields.io/badge/My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrarizikran/)
 
-<p>💻 I’m currently learning : <p> 
+<p>💻 I’m currently working as a full-stack web developer. I'm familiar with all this tech: <p> 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,vite,vercel,tailwind,supabase,react,py,prisma,postman,postgres,nextjs,mysql,mongodb,gitlab,github,docker,flask,firebase,express&theme=light" />
   </a>
 </p>
-
-<p>:atom: Framework : <p> 
- <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs&theme=light" />
-  </a>
-</p>
-
 
 <!---
 zikran69/zikran69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
